@@ -1,0 +1,27 @@
+{
+    "format": 1,
+    "app_id": "pyroll-reward",
+    "latest": "1.2.4",
+    "packages": [
+        {
+            "from": "1.1.0",
+            "to": "1.2.1",
+            "file": "update-1.1.0-to-1.2.1.zip.enc",
+            "url": "https://github.com/mahmoud-algammal/pr-updates/releases/download/v1.2.1/update-1.1.0-to-1.2.1.zip.enc",
+            "size": 500934,
+            "sha256": "91566c5e8655d760ccdce4cb24f20268d9c0bab1a96a49dd9a5bb84cb3fe3437",
+            "notes": "تحسينات لصفحة الموظف + صفحة الحوافز + صفحة ادخال مبالغ المكافأة",
+            "published_at": "2026-10-18T17:55:50+03:00"
+        },
+        {
+            "from": "1.1.0",
+            "to": "1.2.4",
+            "file": "update-1.1.0-to-1.2.4.zip.enc",
+            "url": "https://github.com/mahmoud-algammal/pr-updates/releases/download/v1.2.4/update-1.1.0-to-1.2.4.zip.enc",
+            "size": 500934,
+            "sha256": "586ad19317d82cec8511317a58198bdab788b2b6b6cec9f137e88877cfd42a1f",
+            "notes": "تحسينات في صفحة ملف الموظف + صفحة قائمة المكافآت + صفحة المكافآة منفردة وتحسينات أخرى",
+            "published_at": "2026-10-18T21:49:09+03:00"
+        }
+    ]
+}
