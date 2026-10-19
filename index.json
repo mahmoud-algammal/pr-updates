@@ -1,7 +1,7 @@
 {
     "format": 1,
     "app_id": "pyroll-reward",
-    "latest": "1.2.4",
+    "latest": "1.2.5",
     "packages": [
         {
             "from": "1.1.0",
@@ -22,6 +22,16 @@
             "sha256": "586ad19317d82cec8511317a58198bdab788b2b6b6cec9f137e88877cfd42a1f",
             "notes": "تحسينات في صفحة ملف الموظف + صفحة قائمة المكافآت + صفحة المكافآة منفردة وتحسينات أخرى",
             "published_at": "2026-10-18T21:49:09+03:00"
+        },
+        {
+            "from": "1.2.4",
+            "to": "1.2.5",
+            "file": "update-1.2.4-to-1.2.5.zip.enc",
+            "url": "https://github.com/mahmoud-algammal/pr-updates/releases/download/v1.2.5/update-1.2.4-to-1.2.5.zip.enc",
+            "size": 153059,
+            "sha256": "fb7ed822827c6020830c3f182a1c983d4a97490f23bf3c6a629f4eaf9068e520",
+            "notes": "تحسينات لصفحة الموظف",
+            "published_at": "2026-10-19T08:55:22+03:00"
         }
     ]
 }
