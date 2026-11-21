@@ -1,7 +1,7 @@
 {
     "format": 1,
     "app_id": "pyroll-reward",
-    "latest": "1.3.2",
+    "latest": "1.3.3",
     "packages": [
         {
             "from": "1.1.0",
@@ -72,6 +72,16 @@
             "sha256": "a2600fff2482d445b72d531102c0b8198f36bbe42dda16b05c866d3e1738a7b6",
             "notes": "تحسينات بصرية شاملة + تطوير شامل لقسم الاستحقات + صفحة جديدة لإستحقاقات الموظفين",
             "published_at": "2026-11-03T23:09:57+02:00"
+        },
+        {
+            "from": "1.3.2",
+            "to": "1.3.3",
+            "file": "update-1.3.2-to-1.3.3.zip.enc",
+            "url": "https://github.com/mahmoud-algammal/pr-updates/releases/download/v1.3.3/update-1.3.2-to-1.3.3.zip.enc",
+            "size": 211303,
+            "sha256": "9ced5c6ebc23d9dbbe00ed35cdc6a63bfa63a80702b32cd4d19e487498e07798",
+            "notes": "اتاحة تقارير المشتريات للمكافآت الفردية",
+            "published_at": "2026-11-21T21:42:28+02:00"
         }
     ]
 }
